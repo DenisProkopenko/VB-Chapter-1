@@ -1,0 +1,22 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\WindowsApplication1.frmVisualBasic2010Terms.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\Visual Basic 2010 Terms.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\bin\Debug\Visual Basic 2010 Terms.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\WindowsApplication1.frmVisualBasic2010Terms.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Visual Basic 2010 Terms\Visual Basic 2010 Terms\obj\x86\Debug\GenerateResource.write.1.tlog

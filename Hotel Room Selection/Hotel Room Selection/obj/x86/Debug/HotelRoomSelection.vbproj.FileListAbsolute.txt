@@ -1,0 +1,25 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\WindowsApplication1.frmHotelRoomSelection.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Project\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\bin\Debug\Hotel Room Selection.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\WindowsApplication1.frmHotelRoomSelection.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 1\Hotel Room Selection\Hotel Room Selection\obj\x86\Debug\Hotel Room Selection.pdb
